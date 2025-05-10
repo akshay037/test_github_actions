@@ -1,7 +1,3 @@
 "# test_github_actions"
+# adding something
 
-# again some
-
-# new some
-
-# very new some
